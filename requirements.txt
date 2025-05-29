@@ -21,14 +21,14 @@ beautifulsoup4>=4.9.3
 feedparser>=6.0.8
 lxml>=4.9.0
 
-# Voice Processing
-SpeechRecognition>=3.8.1
-pydub>=0.25.1
-PyAudio>=0.2.11  # Required for SpeechRecognition
+# # Voice Processing
+# SpeechRecognition>=3.8.1
+# pydub>=0.25.1
+# PyAudio>=0.2.11  # Required for SpeechRecognition
 
-# Text-to-Speech (if needed)
-gTTS>=2.2.3  # Google Text-to-Speech
-pyttsx3>=2.90  # Offline TTS engine
+# # Text-to-Speech (if needed)
+# gTTS>=2.2.3  # Google Text-to-Speech
+# pyttsx3>=2.90  # Offline TTS engine
 
 # Utilities
 python-multipart>=0.0.5  # For FastAPI file uploads
